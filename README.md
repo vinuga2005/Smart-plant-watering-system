@@ -39,7 +39,7 @@ SG90 Servo Motor (for the lid)
 
 5V Relay Modules (x3)
 
-12V DC Water Pumps (x3 for Rainwater, Main Line, Fertilizer)
+5V Water Pumps (x3 for Rainwater, Main Line, Fertilizer)
 
 Other: Connecting wires, breadboard, power supply.
 
