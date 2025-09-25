@@ -67,17 +67,17 @@ The rain sensor's input is constantly monitored. If rain is detected, the servo 
 
 🧑‍💻 Team Members
 
-PD Vinuga Janandith - [Link to your GitHub or LinkedIn Profile]
+PD Vinuga Janandith - http://www.linkedin.com/in/vinuga-janandith-873143244
 
-Shaduskar visvanathan - [Link to their GitHub or LinkedIn Profile]
+Shaduskar Visvanathan - https://www.linkedin.com/in/shaduskar-visvanathan
 
-[Teammate 3's Full Name] - [Link to their GitHub or LinkedIn Profile]
+Peiris L.H.A.M.H - https://www.linkedin.com/in/methul-hivin-991005345
 
-[Teammate 4's Full Name] - [Link to their GitHub or LinkedIn Profile]
+Senethma Amavindi - [Link to their GitHub or LinkedIn Profile]
 
-[Teammate 5's Full Name] - [Link to their GitHub or LinkedIn Profile]
+Karunarathna K.N.W - [Link to their GitHub or LinkedIn Profile]
 
-[Teammate 6's Full Name] - [Link to their GitHub or LinkedIn Profile]
+Ahmed A L R - [Link to their GitHub or LinkedIn Profile]
 
 
 
