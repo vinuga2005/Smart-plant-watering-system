@@ -66,6 +66,7 @@ The fertilizer system runs on a separate, non-blocking timer. When the interval 
 The rain sensor's input is constantly monitored. If rain is detected, the servo motor opens the collection lid.
 
 🧑‍💻 Team Members
+
 PD Vinuga Janandith - [Link to your GitHub or LinkedIn Profile]
 
 [Teammate 2's Full Name] - [Link to their GitHub or LinkedIn Profile]
