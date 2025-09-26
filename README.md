@@ -24,23 +24,34 @@ System Alerts: The system sends notifications to the mobile app for important ev
 
 ## 🛠️ Hardware & Software
 
-**Hardware Components
+**Hardware Components**
+
 Microcontroller: ESP32
 
 **Sensors:**
+
 Capacitive Soil Moisture Sensor
+
 HC-SR04 Ultrasonic Sensor (x2)
+
 Rain Drop Sensor
 
 **Actuators:**
+
 SG90 Servo Motor (for the lid)
+
 5V Relay Modules (x3)
+
 5V Water Pumps (x3 for Rainwater, Main Line, Fertilizer)
+
 Other: Connecting wires, breadboard, power supply.
 
 **Software & Platforms**
+
 Programming Language: C++
+
 Development Environment: Arduino IDE
+
 IoT Platform: Blynk
 
 ## ⚙️ System Logic Flow
