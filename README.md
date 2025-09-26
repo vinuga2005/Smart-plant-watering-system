@@ -9,6 +9,7 @@ The goal of this project was to create a fully autonomous system that handles al
 The system is designed to be both "smart" and "sustainable" by using real-time sensor data to make decisions and prioritizing the use of collected rainwater to conserve water. All system functions and sensor readings can be monitored and controlled remotely from anywhere in the world using a custom-built Blynk mobile dashboard.
 
 ✨ Key Features
+
 Automated Watering: The system uses a capacitive soil moisture sensor to water the plant only when necessary.
 
 Smart Water Source Selection: It intelligently checks the rainwater tank level with an ultrasonic sensor and prioritizes it over the main tap line.
@@ -22,32 +23,28 @@ Remote Monitoring & Control: A complete Blynk dashboard provides live sensor dat
 System Alerts: The system sends notifications to the mobile app for important events, such as low rainwater or fertilizer levels.
 
 🛠️ Hardware & Software
+
 Hardware Components
+
 Microcontroller: ESP32
 
 Sensors:
 
 Capacitive Soil Moisture Sensor
-
 HC-SR04 Ultrasonic Sensor (x2)
-
 Rain Drop Sensor
 
 Actuators:
 
 SG90 Servo Motor (for the lid)
-
 5V Relay Modules (x3)
-
 5V Water Pumps (x3 for Rainwater, Main Line, Fertilizer)
-
 Other: Connecting wires, breadboard, power supply.
 
 Software & Platforms
+
 Programming Language: C++
-
 Development Environment: Arduino IDE
-
 IoT Platform: Blynk
 
 ⚙️ System Logic Flow
@@ -64,6 +61,13 @@ If the rainwater level is too low, the system bypasses it and activates the main
 The fertilizer system runs on a separate, non-blocking timer. When the interval is reached, it activates the fertilizer pump for a short, calculated duration.
 
 The rain sensor's input is constantly monitored. If rain is detected, the servo motor opens the collection lid.
+
+## How to Use
+
+1.  **Automatic Mode:** The system will operate automatically based on sensor readings.
+2.  **Manual Watering:** The "Water Now" switch in the Blynk app will run the watering system continuously until turned off.
+3.  **Manual Fertilizing:** The "Fertilize Now" button in the Blynk app will dispense a single, calibrated dose of fertilizer.
+
 
 🧑‍💻 Team Members
 
