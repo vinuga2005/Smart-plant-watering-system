@@ -23,7 +23,7 @@ char pass[] = "123456788";
 #define SERVO_PIN 32
 
 // This is the total time in seconds it takes our pump to empty the full fertilizer tank.
-const float TOTAL_FERT_EMPTY_TIME_SECONDS = 25.96; 
+const float TOTAL_FERT_EMPTY_TIME_SECONDS = 39.96; 
 
 
 // System Configuration & Thresholds
@@ -236,4 +236,5 @@ void loop() {
   
   
   delay(2000); 
+
 }
