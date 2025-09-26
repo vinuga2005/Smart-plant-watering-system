@@ -84,11 +84,11 @@ Shaduskar Visvanathan - https://www.linkedin.com/in/shaduskar-visvanathan
 
 Methul Hivin Peiris - https://www.linkedin.com/in/methul-hivin-991005345
 
-Senethma Amavindi - [Link to their GitHub or LinkedIn Profile]
+Senethma Amavindi - https://www.linkedin.com/in/senethma-amavindi-914b15358
 
 Karunarathna K.N.W - https://www.linkedin.com/in/kavindi-nethsadi-wickramanayaka-karunarathna-89959235a
 
-Ahmed A L R - [Link to their GitHub or LinkedIn Profile]
+Ahmed A L R - 
 
 
 
