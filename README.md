@@ -8,7 +8,7 @@ The goal of this project was to create a fully autonomous system that handles al
 
 The system is designed to be both "smart" and "sustainable" by using real-time sensor data to make decisions and prioritizing the use of collected rainwater to conserve water. All system functions and sensor readings can be monitored and controlled remotely from anywhere in the world using a custom-built Blynk mobile dashboard.
 
-##✨ Key Features
+## ✨ Key Features
 
 Automated Watering: The system uses a capacitive soil moisture sensor to water the plant only when necessary.
 
@@ -22,28 +22,28 @@ Remote Monitoring & Control: A complete Blynk dashboard provides live sensor dat
 
 System Alerts: The system sends notifications to the mobile app for important events, such as low rainwater or fertilizer levels.
 
-##🛠️ Hardware & Software
+## 🛠️ Hardware & Software
 
 **Hardware Components
 Microcontroller: ESP32
 
-**Sensors:
+**Sensors:**
 Capacitive Soil Moisture Sensor
 HC-SR04 Ultrasonic Sensor (x2)
 Rain Drop Sensor
 
-**Actuators:
+**Actuators:**
 SG90 Servo Motor (for the lid)
 5V Relay Modules (x3)
 5V Water Pumps (x3 for Rainwater, Main Line, Fertilizer)
 Other: Connecting wires, breadboard, power supply.
 
-**Software & Platforms
+**Software & Platforms**
 Programming Language: C++
 Development Environment: Arduino IDE
 IoT Platform: Blynk
 
-##⚙️ System Logic Flow
+## ⚙️ System Logic Flow
 The ESP32 continuously reads data from the soil, ultrasonic, and rain sensors.
 
 This data is sent to the Blynk server and displayed on the mobile dashboard.
@@ -65,7 +65,7 @@ The rain sensor's input is constantly monitored. If rain is detected, the servo 
 3.  **Manual Fertilizing:** The "Fertilize Now" button in the Blynk app will dispense a single, calibrated dose of fertilizer.
 
 
-###🧑‍💻 Team Members
+### 🧑‍💻 Team Members
 
 P.D Vinuga Janandith - http://www.linkedin.com/in/vinuga-janandith-873143244
 
